@@ -1,4 +1,4 @@
-# Repositorio_trybe_turma-23
+# Repositorio_trybe_turma-23-A
 Repositório das aulas da Trybe.
 
 ###Estrutura
