@@ -1,0 +1,33 @@
+
+
+h3:hover{
+    border: 2px solid red;
+
+}
+nav{
+    background-color: goldenrod;
+    color: black;
+    font-style: italic;
+}
+
+blockquote{
+    background-color: blue;
+    text-align: center;
+    font-size: 42px;
+}
+header{
+    background-color: green;
+    margin: 0;
+    font-style: italic;
+}
+div{
+    background-color: black;
+    color: white;
+    font-size: 28px;
+}
+
+footer h3{
+    background-color: brown;
+    font-family: fantasy;
+    font-style: italic;
+}
