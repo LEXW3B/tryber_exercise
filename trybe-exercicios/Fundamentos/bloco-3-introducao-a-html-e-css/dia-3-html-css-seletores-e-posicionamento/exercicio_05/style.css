@@ -1,0 +1,34 @@
+
+ol li{
+    background-color: yellow;
+}
+li{
+    font-size: 20px;
+}li em{
+    font-weight: 600;
+}
+
+.n2, .n4{
+    color: green;
+}
+.n1, .n3, .n5{
+    text-transform: uppercase;
+}
+
+h1, h3{
+    color: red;
+}h1 em{
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+.l1, .l2,.l3{
+    color: blue;
+}.l2{
+    background-color: pink;
+}
+
+a:hover{
+    font-weight: 800;
+    color: orange;
+}
