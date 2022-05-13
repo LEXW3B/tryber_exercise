@@ -5,7 +5,6 @@ let aliquotaINSS = 0;
 let aliquotaIR = 0;
 let parcelas = 0;
 
-
 //INSS
 if(salarioBruto<=1556.94){
     aliquota1 = "8%";
@@ -49,4 +48,8 @@ else if((salarioBruto - aliquotaINSS)>4664.68){
     parcelas = 869.36;
     aliquotaIR = (salarioBruto - aliquotaINSS)*27.5/100;
 }
-console.log(`O salário bruto é R$${salarioBruto}, então sua alíquota para INSS é de ${aliquota1} ou seja R$${aliquotaINSS}. É o salário base ficará de R$${salarioBruto - aliquotaINSS} com a aliquota do IR de ${aliquota2} é parcelas no valor de R$${parcelas}. Seu salário liquido será R$${((salarioBruto - aliquotaINSS)-aliquotaIR)-parcelas}`);
+
+let liquidoParcial = ((salarioBruto - aliquotaINSS)-aliquotaIR)-(salarioBruto - aliquotaINSS)+parcelas;
+let liquidoFinal = (salarioBruto - aliquotaINSS)+liquidoParcial;
+
+console.log(`O salário bruto é R$${salarioBruto}, então sua alíquota para INSS é de ${aliquota1} ou seja R$${aliquotaINSS}. É o salário base ficará de R$${salarioBruto - aliquotaINSS} com a aliquota do IR de ${aliquota2} é parcelas no valor de R$${parcelas}. Seu salário liquido será R$${liquidoFinal}`);
