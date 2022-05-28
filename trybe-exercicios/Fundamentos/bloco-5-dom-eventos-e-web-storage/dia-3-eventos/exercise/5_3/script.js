@@ -1,11 +1,3 @@
-// function  createDaysOfTheWeek() {
-  
-// };
-// createDaysOfTheWeek(); 
-
-  
-// Escreva seu código abaixo.
-
 const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];
 //dando dinâmicamente a numeração dos dias do mês
 function createDaysOfTheWeek() {
@@ -56,15 +48,15 @@ function createButton(buttonName) {
   let newButtonId = 'btn-holiday';
 
   newButton.innerHTML = buttonName;
-  newButton.id - newButtonId;
+  newButton.id = newButtonId;
   buttonContainer.appendChild(newButton);
 };
 createButton('Feriados');
-
+//dar funcionalidade ao botão feriados
 function displayHolidays() {
   let getHolidayButton = document.querySelector('#btn-holiday');
   let getHolidays = document.querySelectorAll('.holiday');
-  let backgroundColor = 'rgb(238,238,238)';
+  let backgroundColor = 'rgb(161, 5, 5)';
   let setNewColor = 'white';
 
   getHolidayButton.addEventListener('click', function(){
@@ -79,8 +71,15 @@ function displayHolidays() {
   })
 };
 displayHolidays();
+//criar o botão de sexta-feira
+function createFridayButton(buttonName) {
+  let buttonContainer = document.querySelector('.buttons-container');
+  let newButton = document.createElement('button');
+  let newButtonId = 'btn-friday';
 
-
-
-
+  newButton.innerHTML = buttonName;
+  newButton.id = newButtonId;
+  buttonContainer.appendChild(newButton);
+}
+createFridayButton('Sexta-feira');
 
