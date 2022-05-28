@@ -1,6 +1,6 @@
 # Trybe - Exercises
 
-Contains all the activities developed by [Alexandre Evangelista Souza Lima](https://www.linkedin.com/in/alexandre-evangelista-lima-a337011aa/) during [Trybe's](https://www.betrybe.com/) bootcamp.
+Contains all the activities developed by [Alexandre Evangelista Souza Lima](https://www.linkedin.com/in/alexandre-evangelista-lima-a337011aa/target="_blank") during [Trybe's](https://www.betrybe.com/target="_blank") bootcamp.
 
 > "The program has more than 1,500 hours of online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills."
 
