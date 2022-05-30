@@ -82,4 +82,24 @@ function createFridayButton(buttonName) {
   buttonContainer.appendChild(newButton);
 }
 createFridayButton('Sexta-feira');
-
+//criar um evento de lupa nas li
+function magnifyingGlass() {
+  let dayEl = document.querySelector('#days');
+  dayEl.addEventListener('mouseover', function(event) {
+    event.target.style = 'font-weight: 700;';
+    event.target.style = 'backgroung-color: #fff;'
+    event.target.style = 'font-size: 33px;'
+  })
+}
+magnifyingGlass();
+//criar evento para diminuir a lupa
+function zoomOut() {
+  let dayEl = document.querySelector('#days');
+  dayEl.addEventListener('mouseout', function(event) {
+    event.target.style = 'font-weight: 200;';
+    event.target.style = 'backgroung-color: whith;';
+    event.target.style = 'font-size: 20px;';
+  })
+}
+zoomOut();
+//exercício 7 ainda não fiz
