@@ -18,7 +18,7 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 2.2 - Git & GitHub - Understanding Commands
 - [x] 2.3 - Internet - Understanding How It Works
 
-##### Block 3: [Introduction to HTML and CSS](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-3-introducao-a-html-e-css/dia-1-html-css-estruturas-de-pagina) :heavy_check_mark:
+##### Block 3: [Introduction to HTML and CSS](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-3-introducao-a-html-e-css) :heavy_check_mark:
 
 - [x] 3.1 - Introduction - HTML & CSS
 - [x] 3.1 - HTML & CSS - Page Structures
@@ -27,7 +27,7 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 3.4 - Semantic HTML
 - [x] 3.5 - Project - Lessons Learned
 
-##### Block 4: [Introduction to JavaScript and Programming Logic](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-4-a-javascript-e-logica-de-programacao/dia-1-javascript-primeiros-passos) :heavy_check_mark:
+##### Block 4: [Introduction to JavaScript and Programming Logic](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-4-a-javascript-e-logica-de-programacao) :heavy_check_mark:
 
 - [x] 4.1 - JavaScript - Getting Started
 - [x] 4.2 - JavaScript - Array and For loop
@@ -35,7 +35,7 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 4.4 - JavaScript - Objects and functions
 - [x] 4.5 - Project - Playground Functions
 
-##### Block 5: [JavaScript: DOM, Events, and Web Storage](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-5-dom-eventos-e-web-storage/dia-1-dom-eventos-e-web-storage) 
+##### Block 5: [JavaScript: DOM, Events, and Web Storage](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-5-dom-eventos-e-web-storage) 
 
 - [x] 5.1 - JavaScript - DOM and selectors
 - [x] 5.2 - JavaScript - Handling elements
