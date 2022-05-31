@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Formulário</title>
+</head>
+<body>
+  <header>
+    <h1>TrybeTrip</h1>
+  </header>
+
+  <main>
+    <fieldset>
+      <label for="input-name">
+        Nome: <input type="text" name="nome" id="input-name" placeholder="Digite seu nome completo" required minlength="10" maxlength="40">
+      </label>
+      <br>
+      <label for="input-email">
+        Email: <input type="email" name="email" id="input-email" placeholder="Digite seu email" required minlength="10" maxlength="50">
+      </label>
+      <br>
+      <label for="input-radio">
+        <input type="radio" name="opcao" id="input-radio"> Opção 1
+        <input type="radio" name="opcao" id="input-radio"> Opção 2
+        <input type="radio" name="opcao" id="input-radio"> Opção 3
+        <input type="radio" name="opcao" id="input-radio"> Opção 4
+      </label>
+      <br>
+      <p>Espaço para digitar a resposta:</p>
+      <textarea name="texto" id="input-textArea" cols="30" rows="10" placeholder="Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso Trybe Trip?" maxlength="500"></textarea>
+      <br>
+      <label for="input-date">
+        <p>Qual a melhor data para realizar sua viagem?</p>
+        Data: <input type="date" name="data" id="input-date">
+      </label>
+      <br>
+      <label for="input-checkbox">
+        Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe? 
+        <input type="checkbox" name="checkbox" id="input-checkbox">
+        <br>
+        Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros
+        <input type="checkbox" name="checkbox" id="input-checkbox">
+      </label>
+    </fieldset>
+    <form action="">
+      <button type="submit" name="enviar" id="output-button">Enviar</button>
+      <button type="reset">Apagar</button>
+    </form>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
