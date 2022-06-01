@@ -48,7 +48,7 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [ ] 5.7 - (Bonus) Project - Mystery Letter
 - [ ] 5.7 - (Bonus) Project - Meme Generator
 
-##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive]() 
+##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-6-html-css-forms-flexbox-e-responsivo) 
 
 - [ ] 6.1 - HTML & CSS - Forms
 - [ ] 6.2 - JavaScript Libraries and CSS Frameworks
