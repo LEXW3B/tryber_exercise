@@ -42,16 +42,16 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 5.3 - JavaScript - Events
 - [x] 5.4 - JavaScript - Web Storage
 - [x] 5.5 - Fundamentals - JavaScript - Projects
-- [ ] 5.5 - Project - Pixel Art
-- [ ] 5.6 - Project - To-Do List
-- [ ] 5.7 - (Bonus) Project - Guess the Color
-- [ ] 5.7 - (Bonus) Project - Mystery Letter
-- [ ] 5.7 - (Bonus) Project - Meme Generator
+- [x] 5.5 - Project - Pixel Art
+- [x] 5.6 - Project - To-Do List
+- [x] 5.7 - (Bonus) Project - Guess the Color
+- [x] 5.7 - (Bonus) Project - Mystery Letter
+- [x] 5.7 - (Bonus) Project - Meme Generator
 
 ##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-6-html-css-forms-flexbox-e-responsivo) 
 
-- [ ] 6.1 - HTML & CSS - Forms
-- [ ] 6.2 - JavaScript Libraries and CSS Frameworks
+- [x] 6.1 - HTML & CSS - Forms
+- [x] 6.2 - JavaScript Libraries and CSS Frameworks
 - [ ] 6.3 - CSS Flexbox - Part 1
 - [ ] 6.4 - CSS Flexbox - Part 2
 - [ ] 6.5 - Responsive CSS - Mobile First
