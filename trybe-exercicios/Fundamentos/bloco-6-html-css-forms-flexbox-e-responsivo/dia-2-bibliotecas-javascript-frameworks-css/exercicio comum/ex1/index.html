@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="bootstrap-5.2.0-beta1-dist/css/bootstrap.min.css">
+  <script src="jquery-3.6.0.min.js"></script>
+  <script src="bootstrap-5.2.0-beta1-dist/js/bootstrap.min.js"></script>
+  <title>Formulário</title>
+</head>
+<body>
+  <header>
+    <h1>TrybeTrip</h1>
+  </header>
+
+  <main>
+    <fieldset>
+      <div class="form-group">
+        <label for="input-name">
+          Nome: <input type="text" name="nome" id="input-name" placeholder="Digite seu nome completo" required minlength="10" maxlength="40">
+        </label>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="input-email">
+          Email: <input type="email" name="email" id="input-email" placeholder="Digite seu email" required minlength="10" maxlength="50">
+        </label>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="input-radio">
+        <input type="radio" name="opcao" id="input-radio"> Opção 1
+        <input type="radio" name="opcao" id="input-radio"> Opção 2
+        <input type="radio" name="opcao" id="input-radio"> Opção 3
+        <input type="radio" name="opcao" id="input-radio"> Opção 4
+        </label>
+      </div>
+      <br>
+      <p>Espaço para digitar a resposta:</p>
+      <textarea name="texto" id="input-textArea" cols="30" rows="10" placeholder="Por que você deveria ser a pessoa desenvolvedora a ganhar o concurso Trybe Trip?" maxlength="500"></textarea>
+      <br>
+      <div class="form-group">
+        <label for="input-date">
+          <p>Qual a melhor data para realizar sua viagem?</p>
+          Data: <input type="date" name="data" id="input-date">
+        </label>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="input-checkbox">
+          Gostaria de receber outras incríveis oportunidades oferecidas pela Trybe? 
+          <input type="checkbox" name="checkbox" id="input-checkbox">
+          <br>
+          Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros
+          <input type="checkbox" name="checkbox" id="input-checkbox">
+        </label>
+      </div>
+    </fieldset>
+    <div class="form-group">
+      <form action="">
+        <button type="submit" name="enviar" id="output-button">Enviar</button>
+        <button type="reset">Apagar</button>
+      </form>
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
