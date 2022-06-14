@@ -52,16 +52,16 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 
 - [x] 6.1 - HTML & CSS - Forms
 - [x] 6.2 - JavaScript Libraries and CSS Frameworks
-- [ ] 6.3 - CSS Flexbox - Part 1
-- [ ] 6.4 - CSS Flexbox - Part 2
-- [ ] 6.5 - Responsive CSS - Mobile First
-- [ ] 6.6 - Project - Trybewarts
+- [x] 6.3 - CSS Flexbox - Part 1
+- [x] 6.4 - CSS Flexbox - Part 2
+- [x] 6.5 - Responsive CSS - Mobile First
+- [x] 6.6 - Project - Trybewarts
 
-##### Block 7: [Introduction to JavaScript ES6 and Unit Tests]() 
+##### Block 7: [Introduction to JavaScript ES6 and Unit Tests](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-7-introducao-a-javascript-ES6-e-testes-unitarios/dia-1-javascript-ES6-let-const-arrow-functions-e-template-literals) 
 
-- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
-- [ ] 7.2 - JavaScript ES6 - Objects
-- [ ] 7.3 - Unit Tests in JavaScript
+- [x] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
+- [x] 7.2 - JavaScript ES6 - Objects
+- [x] 7.3 - Unit Tests in JavaScript
 - [ ] 7.4 - Project - JavaScript Unit Testing
 
 ##### Block 8: [Higher Order Functions from JavaScript ES6]() 
