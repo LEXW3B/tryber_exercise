@@ -35,7 +35,7 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 4.4 - JavaScript - Objects and functions
 - [x] 4.5 - Project - Playground Functions
 
-##### Block 5: [JavaScript: DOM, Events, and Web Storage](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-5-dom-eventos-e-web-storage) 
+##### Block 5: [JavaScript: DOM, Events, and Web Storage](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-5-dom-eventos-e-web-storage) :heavy_check_mark:
 
 - [x] 5.1 - JavaScript - DOM and selectors
 - [x] 5.2 - JavaScript - Handling elements
@@ -48,7 +48,7 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 5.7 - (Bonus) Project - Mystery Letter
 - [x] 5.7 - (Bonus) Project - Meme Generator
 
-##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-6-html-css-forms-flexbox-e-responsivo) 
+##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-6-html-css-forms-flexbox-e-responsivo) :heavy_check_mark:
 
 - [x] 6.1 - HTML & CSS - Forms
 - [x] 6.2 - JavaScript Libraries and CSS Frameworks
@@ -57,7 +57,7 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 6.5 - Responsive CSS - Mobile First
 - [x] 6.6 - Project - Trybewarts
 
-##### Block 7: [Introduction to JavaScript ES6 and Unit Tests](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-7-introducao-a-javascript-ES6-e-testes-unitarios/dia-1-javascript-ES6-let-const-arrow-functions-e-template-literals) 
+##### Block 7: [Introduction to JavaScript ES6 and Unit Tests](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Fundamentos/bloco-7-introducao-a-javascript-ES6-e-testes-unitarios/dia-1-javascript-ES6-let-const-arrow-functions-e-template-literals) :heavy_check_mark:
 
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
 - [x] 7.2 - JavaScript ES6 - Objects
