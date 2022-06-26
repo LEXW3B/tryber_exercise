@@ -62,7 +62,7 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
 - [x] 7.2 - JavaScript ES6 - Objects
 - [x] 7.3 - Unit Tests in JavaScript
-- [ ] 7.4 - Project - JavaScript Unit Testing
+- [x] 7.4 - Project - JavaScript Unit Testing
 
 ##### Block 8: [Higher Order Functions from JavaScript ES6]() 
 
