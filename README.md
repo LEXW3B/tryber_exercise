@@ -69,8 +69,8 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [x] 8.2 - JavaScript ES6 - Higher Order Functions - map and filter
 - [x] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
-- [ ] 8.5 - Project - Zoo functions
+- [x] 8.4 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
+- [x] 8.5 - Project - Zoo functions
 
 ##### Block 9: [Asynchronous JavaScript and Promises](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Front-End/bloco-9-javascript-e-testes-assincronos) :heavy_check_mark:
 
