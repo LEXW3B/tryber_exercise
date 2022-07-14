@@ -4,4 +4,5 @@ const person = {
   age: 34,
 };
 
-const { nationality } = person;
+const { nationality = 'Europeu' } = person;
+console.log(nationality);
