@@ -74,7 +74,7 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 
 ##### Block 9: [Asynchronous JavaScript and Promises](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Front-End/bloco-9-javascript-e-testes-assincronos) :heavy_check_mark:
 
-- [ ] 9.1 - Asynchronous JavaScript and Callbacks
+- [x] 9.1 - Asynchronous JavaScript and Callbacks
 - [ ] 9.2 - JavaScript Promises
 - [ ] 9.3 - Project - Shopping Cart
 
