@@ -75,25 +75,25 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 ##### Block 9: [Asynchronous JavaScript and Promises](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Front-End/bloco-9-javascript-e-testes-assincronos) :heavy_check_mark:
 
 - [x] 9.1 - Asynchronous JavaScript and Callbacks
-- [ ] 9.2 - JavaScript Promises
-- [ ] 9.3 - Project - Shopping Cart
+- [x] 9.2 - JavaScript Promises
+- [x] 9.3 - Project - Shopping Cart
 
-##### Block 10: [Automated testing with Jest]() 
+##### Block 10: [Automated testing with Jest]() :heavy_check_mark:
 
-- [ ] 10.1 - First Steps in Jest
-- [ ] 10.2 - Jest - Asynchronous Testing
-- [ ] 10.3 - Jest - Simulating behaviors
-- [ ] 10.4 - Project - Asynchronous Jest and Mocking
+- [x] 10.1 - First Steps in Jest
+- [x] 10.2 - Jest - Asynchronous Testing
+- [x] 10.3 - Jest - Simulating behaviors
+- [x] 10.4 - Project - Asynchronous Jest and Mocking
 
 ## Front-end Development 
 
-##### Block 11-A: [Introduction to React]() 
+##### Block 11-A: [Introduction to React](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Front-End/bloco-11-componentes-com-estado-eventos-e-formularios-com-react) :heavy_check_mark:
 
-- [ ] 11-A.1 - Introduction - Front-end
-- [ ] 11-A.1 - Introduction - React
-- [ ] 11-A.1 - React's 'Hello, world!'!
-- [ ] 11-A.2 - React Components
-- [ ] 11-A.3 - Project - Movie Cards Library
+- [x] 11-A.1 - Introduction - Front-end
+- [x] 11-A.1 - Introduction - React
+- [x] 11-A.1 - React's 'Hello, world!'!
+- [x] 11-A.2 - React Components
+- [x] 11-A.3 - Project - Movie Cards Library
 
 ##### Block 11-B: [Stateful Components, Events and Forms with React]() 
 
