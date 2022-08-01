@@ -78,7 +78,7 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 9.2 - JavaScript Promises
 - [x] 9.3 - Project - Shopping Cart
 
-##### Block 10: [Automated testing with Jest]() :heavy_check_mark:
+##### Block 10: [Automated testing with Jest](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Front-End/bloco-10-react/dia-1-hello-world-no-react) :heavy_check_mark:
 
 - [x] 10.1 - First Steps in Jest
 - [x] 10.2 - Jest - Asynchronous Testing
@@ -95,11 +95,11 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 11-A.2 - React Components
 - [x] 11-A.3 - Project - Movie Cards Library
 
-##### Block 11-B: [Stateful Components, Events and Forms with React]() 
+##### Block 11-B: [Stateful Components, Events and Forms with React](https://github.com/LEXW3B/tryber_exercise/tree/main/trybe-exercicios/Front-End/bloco-11-componentes-com-estado-eventos-e-formularios-com-react) :heavy_check_mark:
 
-- [ ] 11-B.1 - Components with state and events
-- [ ] 11-B.2 - Forms in React
-- [ ] 11-B.3 - Project - Tryunfo
+- [x] 11-B.1 - Components with state and events
+- [x] 11-B.2 - Forms in React
+- [x] 11-B.3 - Project - Tryunfo
 
 ##### Block 12: [Component Lifecycle and React Router]() 
 
