@@ -101,23 +101,23 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 11-B.2 - Forms in React
 - [x] 11-B.3 - Project - Tryunfo
 
-##### Block 12: [Component Lifecycle and React Router]() 
+##### Block 12: [Component Lifecycle and React Router](https://github.com/LEXW3B/trybe_exercicios/tree/master/Front-End/bloco-12-ciclo-de-vida-de-componentes-e-react-router/dia-1-ciclo-de-vida-de-componentes) :heavy_check_mark:
 
-- [ ] 12.1 - Component life cycle
-- [ ] 12.2 - React Router
-- [ ] 12.3 - Project - TrybeTunes
+- [x] 12.1 - Component life cycle
+- [x] 12.2 - React Router
+- [x] 12.3 - Project - TrybeTunes
 
 ##### Block 13: Agile Methodologies 
 
 - [ ] 13.1 - Agile Methodologies
 - [ ] 13.2 - Project - Frontend Online Store
 
-##### Block 14: [Automated testing with React Testing Library]() 
+##### Block 14: [Automated testing with React Testing Library](https://github.com/LEXW3B/trybe_exercicios/tree/master/Front-End/bloco-14-tesstes-automatizados-com-react-testing-library) :heavy_check_mark:
 
-- [ ] 14.1 - RTL - First Steps
-- [ ] 14.2 - RTL - Mocks and Inputs
-- [ ] 14.3 - RTL - Testing React Router
-- [ ] 14.4 - Project - Testing in React
+- [x] 14.1 - RTL - First Steps
+- [x] 14.2 - RTL - Mocks and Inputs
+- [x] 14.3 - RTL - Testing React Router
+- [x] 14.4 - Project - Testing in React
 
 ##### Block 15: [State Management with Redux]() 
 
