@@ -119,9 +119,9 @@ Contains all the activities developed by [Alexandre Evangelista Souza Lima](http
 - [x] 14.3 - RTL - Testing React Router
 - [x] 14.4 - Project - Testing in React
 
-##### Block 15: [State Management with Redux]() 
+##### Block 15: [State Management with Redux](https://github.com/LEXW3B/trybe_exercicios/tree/master/Front-End/bloco-15-gerenciamento-de-estado-com-redux/dia-1-introducao-ao-redux-o-estado-global-da-aplicacao) :heavy_check_mark:
 
-- [ ] 15.1 - Introduction to Redux - The Overall State of the Application
+- [x] 15.1 - Introduction to Redux - The Overall State of the Application
 - [ ] 15.2 - Using Redux in React
 - [ ] 15.3 - Using Redux in React - In Practice
 - [ ] 15.4 - Using Redux in React - Asynchronous Actions
